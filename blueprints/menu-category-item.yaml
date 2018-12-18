@@ -1,0 +1,11 @@
+fields:
+  title:
+    title: "Title"
+    type: text
+  description:
+    title: "Description"
+    type: textarea
+  price:
+    title: "Price"
+    type: text
+    size: col-4

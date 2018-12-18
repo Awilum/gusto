@@ -1,0 +1,8 @@
+fields:
+  title:
+    title: "Title"
+    type: text
+  category:
+    title: "Category"
+    type: hidden
+    value: 'yes'

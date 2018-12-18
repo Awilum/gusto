@@ -1,0 +1,10 @@
+name: Gusto
+version: 1.0.0
+description: Simple Gusto cafe theme for Flextype.
+author:
+  name: Sergey Romanenko
+  email: awilum@yandex.ru
+  url: https://github.com/Awilum
+homepage: https://github.com/flextype-themes/gusto
+bugs: https://github.com/flextype-themes/gusto/issues
+license: MIT

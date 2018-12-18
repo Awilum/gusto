@@ -1,0 +1,7 @@
+fields:
+  title:
+    title: "Title"
+    type: text
+  message:
+    title: "Message"
+    type: text

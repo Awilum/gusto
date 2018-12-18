@@ -1,0 +1,20 @@
+fields:
+  title:
+    title: "Title"
+    type: text
+  media1:
+    title: "Media Image"
+    type: media_select
+    size: col-4
+  media2:
+    title: "Media Image"
+    type: media_select
+    size: col-4
+  media3:
+    title: "Media Image"
+    type: media_select
+    size: col-4
+  media4:
+    title: "Media Image"
+    type: media_select
+    size: col-4

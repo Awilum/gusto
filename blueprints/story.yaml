@@ -1,0 +1,11 @@
+fields:
+  title:
+    title: "Title"
+    type: text
+  content:
+    title: "Content"
+    type: html
+  image:
+    title: "Image"
+    type: media_select
+    size: col-4
