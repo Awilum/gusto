@@ -1,11 +1,11 @@
-# Nes Theme for [Flextype](http://flextype.org/)
+# Gusto Theme for [Flextype](http://flextype.org/)
 ![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg?style=flat-square)
 ![Flextype](https://img.shields.io/badge/Flextype-0.7.4-green.svg?style=flat-square)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
-![MIT License](nes.png)
+![MIT License](gusto.png)
 
-Nes theme for Flextype based on [NES-style(8bit-like)](https://nostalgic-css.github.io/NES.css/) CSS Framework.
+One page restaurant theme for Flextype with a clean and elegant design.
 
 ## Installation
 * Unzip theme to the folder `/site/themes/`
@@ -19,4 +19,4 @@ enabled: true # or `false` to disable the theme
 ```
 
 ## License
-See [LICENSE](https://github.com/flextype-themes/nes/blob/master/LICENSE)
+See [LICENSE](https://github.com/flextype-themes/gusto/blob/master/LICENSE)
