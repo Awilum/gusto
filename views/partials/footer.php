@@ -1,5 +1,7 @@
 <?php namespace Flextype; ?>
-
+<?php
+    use Flextype\Component\{Registry\Registry};
+?>
     <div id="contact" class="text-center">
       <div class="container text-center">
         <div class="col-md-4">
@@ -63,9 +65,9 @@
         <div class="col-md-6">
           <div class="social">
             <ul>
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+              <li><a href="<?= Registry::get('themes.gusto.facebook') ?>"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="<?= Registry::get('themes.gusto.twitter') ?>"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="<?= Registry::get('themes.gusto.youtube') ?>"><i class="fab fa-youtube"></i></a></li>
             </ul>
           </div>
         </div>
