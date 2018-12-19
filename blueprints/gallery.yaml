@@ -19,3 +19,7 @@ fields:
     title: "Media Image"
     type: media_select
     size: col-4
+  visibility:
+    title: ""
+    type: hidden
+    value: "hidden"

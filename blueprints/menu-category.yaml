@@ -7,3 +7,7 @@ fields:
     title: "Category"
     type: hidden
     value: 'yes'
+  visibility:
+    title: ""
+    type: hidden
+    value: "hidden"

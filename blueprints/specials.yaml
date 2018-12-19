@@ -8,6 +8,6 @@ fields:
     type: template_select
     size: col-4
   visibility:
-    title: "Visibility"
-    type: visibility_select
-    size: col-4
+    title: ""
+    type: hidden
+    value: "hidden"

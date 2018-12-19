@@ -3,3 +3,7 @@ fields:
   title:
     title: "Title"
     type: text
+  visibility:
+    title: ""
+    type: hidden
+    value: "hidden"

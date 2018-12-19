@@ -10,3 +10,7 @@ fields:
     title: "Price"
     type: text
     size: col-4
+  visibility:
+    title: ""
+    type: hidden
+    value: "hidden"
