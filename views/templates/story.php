@@ -2,7 +2,6 @@
     namespace Flextype;
     use Flextype\Component\{Http\Http};
 ?>
-<!-- About Section -->
 <div id="about">
   <div class="container-fluid">
     <div class="row">
@@ -12,7 +11,7 @@
           <div class="section-title">
             <h2><?= $story['title'] ?></h2>
           </div>
-          <?= !empty($story['content']) ? $story['content'] : '% Add your content here %' ?>
+          <?= !empty($story['content']) ? $story['content'] : 'Add your content here' ?>
         </div>
       </div>
     </div>

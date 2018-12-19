@@ -1,4 +1,4 @@
 <?php namespace Flextype; ?>
-<?php Themes::view('partials/head')->display(); ?>
+<?= Themes::view('partials/head') ?>
 <?= $page['content'] ?>
-<?php Themes::view('partials/footer')->display(); ?>
+<?= Themes::view('partials/footer') ?>
